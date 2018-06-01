@@ -1,5 +1,5 @@
 {
-  "name": "validator-iso",
+  "name": "validator-iso-fork",
   "version": "0.3.8",
   "description": "Universal (a.k.a isomorphic) validator",
   "main": "dist/validator.min.js",
